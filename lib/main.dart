@@ -92,7 +92,7 @@ class Home extends StatelessWidget {
                     print(getmedicine);
                     print(getdoctor);
                 },
-                child: Text("Submit"),
+                child: Text("SUBMIT"),
                 )
               ],
             ),
